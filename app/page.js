@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <div style={containerStyle}>
-      <h1 style={headingStyle}>Welcome to Our Next.js Form</h1>
+      <h1 style={headingStyle}>Welcome to SPIT IT Infrastructure </h1>
       <form style={formStyle}>
         <div style={inputGroupStyle}>
           <input
